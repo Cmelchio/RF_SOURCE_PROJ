@@ -1,0 +1,1 @@
+"./configuration.obj" "./lcd-controller.obj" "./main.obj" "./si570-controller.obj" "./si570-register-calculator.obj" "./si570-register-transmitter.obj" "../lnk_msp430g2353.cmd" -l"libc.a" 
